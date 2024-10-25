@@ -1,0 +1,132 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "What shape do the colorful balloons at the entrance of the carnival resemble?",
+      "options": [
+          "Triangle",
+          "Square",
+          "Circle",
+          "Rectangle"
+      ],
+      "correct": 2,
+      "secondImg": "./images/6.png",
+      "explanation": "The colorful balloons are round and smooth, which makes them look like circles. Circles have no corners or edges, just like balloons!"
+  },
+  {
+      "questionNo": "Q2",
+      "question": "What shape is the top of the carnival tent?",
+      "options": [
+          "Circle",
+          "Square",
+          "Rectangle",
+          "Triangle"
+      ],
+      "correct": 3,
+      "secondImg": "./images/7.png",
+      "explanation": "The top of a carnival tent usually has a pointy shape that looks like a triangle. Triangles have three sides and can create a nice, tall peak, making the tent look festive!"
+  },
+  {
+      "questionNo": "Q3",
+      "question": "There was a big clock for sale in the exhibition section of the carnival, what shape is the clock?",
+      "options": [
+          "Triangle",
+          "Circle",
+          "Square",
+          "Rectangle"
+      ],
+      "correct": 2,
+      "secondImg": "./images/8.png",
+      "explanation": "Most clocks are round and have a circular shape. Circles have no corners or edges, just like the shape of a clock face!"
+  },
+  {
+      "questionNo": "Q4",
+      "question": "Which shape represents the tickets Sophie bought for the rides?",
+      "options": [
+          "Square",
+          "Circle",
+          "Rectangle",
+          "Triangle"
+      ],
+      "correct": 2,
+      "secondImg": "./images/9.png",
+      "explanation": "Tickets are usually shaped like rectangles. Rectangles have two long sides and two short sides, which is perfect for holding information like ride names and prices!"
+  },
+  {
+      "questionNo": "Q5",
+      "question": "What shape is the carousel platform?",
+      "options": [
+          "Triangle",
+          "Circle",
+          "Square",
+          "Rectangle"
+      ],
+      "correct": 1,
+      "secondImg": "./images/10.png",
+      "explanation": "The carousel platform is usually circular. This round shape allows it to spin smoothly, making it fun for riders as they go around in a circle!"
+  },
+  {
+      "questionNo": "Q6",
+      "question": "What shape do the sign boards have in the carnival?",
+      "options": [
+          "Circle",
+          "Rectangle",
+          "Triangle",
+          "Square"
+      ],
+      "correct": 2,
+      "secondImg": "./images/11.png",
+      "explanation": "Most sign boards at the carnival are shaped like rectangles. This shape gives them enough space to display information clearly, like ride names and directions!"
+  },
+  {
+      "questionNo": "Q7",
+      "question": "At a food stall they ate nachos. What shape does the nacho represent?",
+      "options": [
+          "Square",
+          "Rectangle",
+          "Circle",
+          "Triangle"
+      ],
+      "correct": 3,
+      "secondImg": "./images/12.png",
+      "explanation": "Nachos are usually shaped like triangles. They are often cut from flat tortillas, giving them that pointy shape that makes them fun to eat!"
+  },
+  {
+      "questionNo": "Q8",
+      "question": "There’s a large mirror at the carnival, what shape is it?",
+      "options": [
+          "Square",
+          "Rectangle",
+          "Triangle",
+          "Circle"
+      ],
+      "correct": 1,
+      "secondImg": "./images/13.png",
+      "explanation": "Large mirrors are often shaped like rectangles. This shape allows them to show a bigger reflection, making it easier for people to see themselves when they look into the mirror!"
+  },
+  {
+      "questionNo": "Q9",
+      "question": "Sophie bought candies for her friend. What shape does the candy box represent?",
+      "options": [
+          "Square",
+          "Circle",
+          "Triangle",
+          "Rectangle"
+      ],
+      "correct": 0,
+      "secondImg": "./images/14.png",
+      "explanation": "Candy boxes are often shaped like rectangles. This shape provides enough space to hold many candies and makes it easy to stack or store the boxes!"
+  },
+  {
+      "questionNo": "Q10",
+      "question": "What shape was the Ferris wheel at the carnival?",
+      "options": [
+          "Square",
+          "Circle",
+          "Triangle",
+          "Rectangle"
+      ],
+      "correct": 1,
+      "secondImg": "./images/15.png",
+      "explanation": "The Ferris wheel is shaped like a circle. This round shape allows the seats to go up and down smoothly as it spins around, making it a fun ride for everyone!"
+  }
+]
